@@ -1,4 +1,4 @@
-# Application for searching books online, from "http://openlibrary.org/" api point
+# Application for searching books online
 
 # Starting application
 To start this application, you should run command below:
