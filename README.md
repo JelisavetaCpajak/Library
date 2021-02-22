@@ -1,3 +1,10 @@
+# Application for searching books online, from "http://openlibrary.org/" api point
+
+# Starting application
+To start this application, you should run command below:
+#-npm install
+#-npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
