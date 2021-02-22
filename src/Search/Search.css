@@ -1,0 +1,31 @@
+.Root {
+  min-width: 275;
+  width: 500px;
+  text-align: center;
+  box-shadow: 0 2px 3px rgb(230, 152, 152);
+  border: 1px solid #eee;
+  padding: 10px;
+  box-sizing: border-box;
+  margin-top: 3;
+  margin-bottom: 10;
+}
+.Bullet {
+  display: "inline-block";
+  margin: "0 2px";
+  transform: "scale(0.8)";
+}
+.Title {
+  font-size: 14;
+}
+.Pos {
+  margin-bottom: 12;
+}
+.Button {
+  text-align: center;
+}
+.photo {
+  height: 50px;
+  width: auto;
+  pointer-events: none;
+  background-color: aquamarine;
+}

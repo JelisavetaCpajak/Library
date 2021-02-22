@@ -1,0 +1,22 @@
+.Root {
+  min-width: 275;
+
+  margin: 20px auto;
+  width: 500px;
+  text-align: center;
+  box-shadow: 0 2px 3px #ccc;
+  border: 1px solid #eee;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.Bullet {
+  display: "inline-block";
+  margin: "0 2px";
+  transform: "scale(0.8)";
+}
+.Title {
+  font-size: 14;
+}
+.Pos {
+  margin-bottom: 12;
+}
